@@ -18,8 +18,8 @@ entries:
     name: beholder-agent
     type: application
     sources:
-    - https://yunusgun.github.io/grafana-agent
+    - https://yunusgun.github.io/grafana-agent.github.io
     urls:
-    - https://yunusgun.github.io/grafana-agent/beholder-agent-0.1.0.tgz
+    - https://yunusgun.github.io/grafana-agent.github.io/beholder-agent-0.1.0.tgz
     version: 0.1.0
 generated: "2022-12-30T13:01:25.454249+03:00"
